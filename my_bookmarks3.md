@@ -1,1 +1,1 @@
-%22www.google.com1%22
+"www.google.com1"
